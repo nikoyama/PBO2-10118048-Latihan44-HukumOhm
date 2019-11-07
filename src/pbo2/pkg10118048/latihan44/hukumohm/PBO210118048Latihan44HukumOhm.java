@@ -12,7 +12,7 @@ package pbo2.pkg10118048.latihan44.hukumohm;
  * NAMA : Niko Yama
  * KELAS : PBO2
  * NIM : 10118048
- * Deskripsi program : 
+ * Deskripsi program : hukum ohm
  */
 public class PBO210118048Latihan44HukumOhm {
 
